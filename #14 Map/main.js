@@ -43,3 +43,4 @@ console.log(myMap);
 
 myMap.clear();
 console.log(myMap)
+
